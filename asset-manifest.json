@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4bb71e44.css",
+    "main.js": "/static/js/main.1c4d5c1a.js",
+    "static/js/787.4f57ac2b.chunk.js": "/static/js/787.4f57ac2b.chunk.js",
+    "static/media/Narenj.pdf": "/static/media/Narenj.63c3b508657bc63a59e9.pdf",
+    "static/media/Me.JPG": "/static/media/Me.3aebcb691dea4edd7ab9.JPG",
+    "static/media/icon-dev.svg": "/static/media/icon-dev.9f42b3295e8d98105b3b5037212d1873.svg",
+    "static/media/icon-education.svg": "/static/media/icon-education.b36e4ec0a62c9953347c78cbf7ccc4fd.svg",
+    "static/media/icon-experience.svg": "/static/media/icon-experience.d96e3bb5fdc973043e2379dbd90d5985.svg",
+    "static/media/triangles-bottom.svg": "/static/media/triangles-bottom.b7e66d607d80493db2d8.svg",
+    "static/media/triangles-top.svg": "/static/media/triangles-top.aa97cd973b6a6b6ccd3d.svg",
+    "static/media/icon-skills.svg": "/static/media/icon-skills.b06c197de2f7589be25bd4b309f2825c.svg",
+    "static/media/star.svg": "/static/media/star.67c47a1dd7924d52e6330359f586925b.svg",
+    "index.html": "/index.html",
+    "main.4bb71e44.css.map": "/static/css/main.4bb71e44.css.map",
+    "main.1c4d5c1a.js.map": "/static/js/main.1c4d5c1a.js.map",
+    "787.4f57ac2b.chunk.js.map": "/static/js/787.4f57ac2b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4bb71e44.css",
+    "static/js/main.1c4d5c1a.js"
+  ]
+}
