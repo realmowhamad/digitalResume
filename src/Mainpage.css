@@ -1,0 +1,49 @@
+.infoSection {
+    @apply flex items-center justify-start text-white px-3 py-2
+}
+
+.infoSection i {
+    @apply mx-1 text-2xl
+}
+
+.sectionHeader {
+    @apply flex items-start justify-start text-white px-3 py-2 text-3xl font-bold w-full
+}
+
+.skillSection {}
+
+.skillSection div {
+    @apply flex items-start justify-start
+}
+
+.skillSection h1 {
+    @apply text-white font-semibold
+}
+
+.headline {
+    @apply py-2 w-full flex items-center justify-start my-4
+}
+
+.headline h1 {
+    @apply text-white font-semibold mx-2 text-[32px] leading-[41.6px]
+}
+
+.mainC {
+    background-color: rgba(0, 0, 0, 0.7);
+}
+
+.experiences h1 {
+    @apply text-2xl font-semibold text-white
+}
+
+.experiences h2 {
+    @apply font-semibold text-white mb-3
+}
+
+.experiences ul li {
+    @apply flex items-start justify-start text-white p-2
+}
+
+.experiences ul li img {
+    @apply w-5 h-5 my-1 mx-1
+}
